@@ -34,7 +34,7 @@ int main( )
 	int val;
 	do
 	{
-		cout << endl << endl << endl;
+		cout << endl<< "O hver frumlegur eg er ad baeta vid texta" << endl << endl;
 		cout << "                ADALVALMYND " << endl << endl;
 		cout << "                      1. Spila NIM" << endl;
 		cout << "                      2. Birta reglurnar i NIM" << endl;
